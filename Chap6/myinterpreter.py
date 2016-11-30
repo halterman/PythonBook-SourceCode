@@ -1,0 +1,2 @@
+while True:
+    exec(input(">>>"))
