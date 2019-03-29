@@ -1,4 +1,4 @@
-#  Count to n and print each number on its own line
+#  Count to n and print each number
 def count_to_n(n):
      for i in range(1, n + 1):
          print(i, end=' ')
